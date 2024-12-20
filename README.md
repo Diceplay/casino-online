@@ -12,53 +12,53 @@
     </thead>
     <tbody>
         <tr>
-            <td><strong>Вавада</strong><br>100% бонус до $500 + 100 вращений</td>
-            <td><a href="https://partnervavadarv.com/?promo=fa6d4c35-b225-4fb8-90a7-80940d86693e&target=register" class="btn">регистрация</a><br><a href="#" class="btn">Win300</a></td>
+            <td><strong>PlayFortuna</strong><br>100% бонус до $500 + 100 вращений</td>
+            <td><a href="https://fortuna-promo.net/alt/pf_gates_of_olympus_en/?4c7f26c08b749d094457154abfc9b4d9" class="btn">регистрация</a><br><a href="#" </a></td>
             <td>Увеличьте свой депозит на 100% до $500, плюс получите 100 бесплатных вращений для игр.</td>
         </tr>
         <tr>
             <td><strong>Riobet</strong><br>200% бонус до $1000 + 100 бесплатных вращений</td>
-            <td><a href="https://cutt.ly/gw0Usi4g" class="btn">регистрация</a><br><a href="#" class="btn">Win300</a></td>
+            <td><a href="https://cutt.ly/gw0Usi4g" class="btn">регистрация</a><br><a href="#" </a></td>
             <td>Получите 200% бонус на свой первый депозит до $1000, а также 100 бесплатных вращений.</td>
         </tr>
         <tr>
             <td><strong>1xSlots</strong><br>250% бонус на депозит до $750</td>
-            <td><a href="https://unlimc.net/d3de5f285?registrationPromoCode=WIN300" class="btn">регистрация</a><br><a href="#" class="btn">Win300</a></td>
+            <td><a href="https://unlimc.net/d3de5f285?registrationPromoCode=WIN300" class="btn">регистрация</a><br><a href="#" </a></td>
             <td>Сделайте депозит и получите 250% и до $750 к вашему счету.</td>
         </tr>
         <tr>
             <td><strong>1 победа</strong><br>бонус 500%</td>
-            <td><a href="https://1wytvn.life/casino/list?open=register#k0ok" class="btn">регистрация</a><br><a href="#" class="btn">Win300</a></td>
+            <td><a href="https://1wytvn.life/casino/list?open=register#k0ok" class="btn">регистрация</a><br><a href="#" </a></td>
             <td>Пользуйтесь 500% бонусом на первый депозит для начала своей игровой карьеры.</td>
         </tr>
         <tr>
             <td><strong>Казино с водкой</strong><br>100% при первом депозите до $200</td>
-            <td><a href="https://vodka2.xyz?id=3597" class="btn">регистрация</a><br><a href="#" class="btn">Win300</a></td>
+            <td><a href="https://vodka2.xyz?id=3597" class="btn">регистрация</a><br><a href="#" </a></td>
             <td>Добро пожаловать: можете удвоить первый депозит до $200!</td>
         </tr>
         <tr>
             <td><strong>В казино</strong><br>300% бонус + VIP-призы за лояльность</td>
-            <td><a href="https://auflink.com/d1d9117ba?registrationPromoCode=WIN300" class="btn">регистрация</a><br><a href="#" class="btn">Win300</a></td>
+            <td><a href="https://auflink.com/d1d9117ba?registrationPromoCode=WIN300" class="btn">регистрация</a><br><a href="#" </a></td>
             <td>Получите щедрый 300% бонус и возможность выигрывать VIP-призы за активную игру.</td>
         </tr>
         <tr>
             <td><strong>CryptoBoss</strong><br>100 вращений без депозита</td>
-            <td><a href="https://cryptobossc.online/d86b78981?registrationPromoCode=WIN300" class="btn">регистрация</a><br><a href="#" class="btn">Win300</a></td>
+            <td><a href="https://cryptobossc.online/d86b78981?registrationPromoCode=WIN300" class="btn">регистрация</a><br><a href="#" </a></td>
             <td>Играйте без риска: 100 фриспинов сразу при регистрации!</td>
         </tr>
         <tr>
             <td><strong>Мостбет</strong><br>100 спинов без депозита</td>
-            <td><a href="kbgepymb.com/b3ws" class="btn">регистрация</a><br><a href="#" class="btn">Win300</a></td>
+            <td><a href="kbgepymb.com/b3ws" class="btn">регистрация</a><br><a href="#" </a></td>
             <td>Получи 100 бесплатных спинов без вложений, чтобы попробовать свои силы!</td>
         </tr>
         <tr>
             <td><strong>Безлимитный</strong><br>250% бонусная ставка x25</td>
-            <td><a href="https://unlimc.net/d3de5f285?registrationPromoCode=WIN300" class="btn">регистрация</a><br><a href="#" class="btn">Win300</a></td>
+            <td><a href="https://unlimc.net/d3de5f285?registrationPromoCode=WIN300" class="btn">регистрация</a><br><a href="#" </a></td>
             <td>Делайте ставки на 250% больше и получите множитель x25 на выигрыш!</td>
         </tr>
         <tr>
             <td><strong>Казино Daddy</strong><br>Бонус 250% + 150 бесплатных вращений без депозита</td>
-            <td><a href="https://bit.ly/Daddyaff" class="btn">регистрация</a><br><a href="#" class="btn">Win300</a></td>
+            <td><a href="https://bit.ly/Daddyaff" class="btn">регистрация</a><br><a href="#"</a></td>
             <td>Щедрый бонус 250% и 150 фриспинов в вашей первой игре без депозита.</td>
         </tr>
     </tbody>
