@@ -17,9 +17,9 @@
             <td>Увеличьте свой депозит на 100% до $500, плюс получите 100 бесплатных вращений для игр.</td>
         </tr>
         <tr>
-            <td><strong>Riobet</strong><br>200% бонус до $1000 + 100 бесплатных вращений</td>
-            <td><a href="https://cutt.ly/gw0Usi4g" class="btn">регистрация</a><br><a href="#" </a></td>
-            <td>Получите 200% бонус на свой первый депозит до $1000, а также 100 бесплатных вращений.</td>
+       <td><strong>Auf казино </strong><br>300% бонус + VIP-призы за лояльность</td>
+            <td><a href="https://auflink.com/d1d9117ba?registrationPromoCode=WIN300" class="btn">регистрация</a><br><a href="#" </a></td>
+            <td>Получите щедрый 300% бонус и возможность выигрывать VIP-призы за активную игру.</td>
         </tr>
         <tr>
             <td><strong>1xSlots</strong><br>250% бонус на депозит до $750</td>
@@ -31,13 +31,16 @@
             <td><a href="https://1wytvn.life/casino/list?open=register#k0ok" class="btn">регистрация</a><br><a href="#" </a></td>
             <td>Пользуйтесь 500% бонусом на первый депозит для начала своей игровой карьеры.</td>
         </tr>
+        <td><strong>Riobet</strong><br>200% бонус до $1000 + 100 бесплатных вращений</td>
+            <td><a href="https://cutt.ly/gw0Usi4g" class="btn">регистрация</a><br><a href="#" </a></td>
+            <td>Получите 200% бонус на свой первый депозит до $1000, а также 100 бесплатных вращений.</td>
         <tr>
             <td><strong>Казино Vodka </strong><br>100% при первом депозите до $200</td>
             <td><a href="https://vodka2.xyz?id=3597" class="btn">регистрация</a><br><a href="#" </a></td>
             <td>Добро пожаловать: можете удвоить первый депозит до $200!</td>
         </tr>
         <tr>
-            <td><strong>В казино</strong><br>300% бонус + VIP-призы за лояльность</td>
+            <td><strong>Auf казино </strong><br>300% бонус + VIP-призы за лояльность</td>
             <td><a href="https://auflink.com/d1d9117ba?registrationPromoCode=WIN300" class="btn">регистрация</a><br><a href="#" </a></td>
             <td>Получите щедрый 300% бонус и возможность выигрывать VIP-призы за активную игру.</td>
         </tr>
