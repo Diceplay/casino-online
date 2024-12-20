@@ -2,7 +2,7 @@
 </head>
 <body>
 
-<h1>Казино и Бонусы</h1>
+<h1>Book of ra </h1>
 <table>
     <thead>
         <tr>
@@ -27,8 +27,46 @@
             <td><a href="https://example.com/casino3" class="button">Перейти</a></td>
             <td>Бонус: 200% на первый депозит до 10,000 рублей.</td>
         </tr>
+        <tr>
+            <td>Казино 4</td>
+            <td><a href="https://example.com/casino4" class="button">Перейти</a></td>
+            <td>Бонус: 150% на первый депозит + 30 фриспинов.</td>
+        </tr>
+        <tr>
+            <td>Казино 5</td>
+            <td><a href="https://example.com/casino5" class="button">Перейти</a></td>
+            <td>Бонус: 25% кешбэк на все проигрыши в течение недели.</td>
+        </tr>
+        <tr>
+            <td>Казино 6</td>
+            <td><a href="https://example.com/casino6" class="button">Перейти</a></td>
+            <td>Бонус: 3 фриспина без депозита при регистрации.</td>
+        </tr>
+        <tr>
+            <td>Казино 7</td>
+            <td><a href="https://example.com/casino7" class="button">Перейти</a></td>
+            <td>Бонус: 100% на первый депозит + 100 фриспинов.</td>
+        </tr>
+        <tr>
+            <td>Казино 8</td>
+            <td><a href="https://example.com/casino8" class="button">Перейти</a></td>
+            <td>Бонус: 50% на второй депозит до 5000 рублей.</td>
+        </tr>
+        <tr>
+            <td>Казино 9</td>
+            <td><a href="https://example.com/casino9" class="button">Перейти</a></td>
+            <td>Бонус: 15% кешбэк на первую неделю после регистрации.</td>
+        </tr>
+        <tr>
+            <td>Казино 10</td>
+            <td><a href="https://example.com/casino10" class="button">Перейти</a></td>
+            <td>Бонус: 50 бесплатных вращений на популярных слотах.</td>
+        </tr>
     </tbody>
 </table>
+
+</body>
+</html>
 
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/190454458/391854586-e97cacd0-dc02-40db-8b9b-1dd8dce8c385.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ2OTY3NjIsIm5iZiI6MTczNDY5NjQ2MiwicGF0aCI6Ii8xOTA0NTQ0NTgvMzkxODU0NTg2LWU5N2NhY2QwLWRjMDItNDBkYi04YjliLTFkZDhkY2U4YzM4NS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIyMFQxMjA3NDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYjhiYzUwYTM5MzcwNTUwYWVlMjY0YjE3YWU1YmE3YWM3YjM4ZGVmMmM2YmJhMGViMGU2NjI3MzFhY2FjODFjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.9WiS-LTgPar2-Qnk9fPlT6IIEhTbcqKJVfRCFHrLUuo"><img src="https://private-user-images.githubusercontent.com/190454458/391854586-e97cacd0-dc02-40db-8b9b-1dd8dce8c385.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ2OTY3NjIsIm5iZiI6MTczNDY5NjQ2MiwicGF0aCI6Ii8xOTA0NTQ0NTgvMzkxODU0NTg2LWU5N2NhY2QwLWRjMDItNDBkYi04YjliLTFkZDhkY2U4YzM4NS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIyMFQxMjA3NDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYjhiYzUwYTM5MzcwNTUwYWVlMjY0YjE3YWU1YmE3YWM3YjM4ZGVmMmM2YmJhMGViMGU2NjI3MzFhY2FjODFjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.9WiS-LTgPar2-Qnk9fPlT6IIEhTbcqKJVfRCFHrLUuo" alt="image001" style="max-width: 100%;"></a>
