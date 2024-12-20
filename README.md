@@ -12,44 +12,122 @@
         </tr>
     </thead>
     <tbody
-<td><strong>Вавада </strong><br>100% бонус до $500 + 100 вращений</td>
-          <td><a href="https://partnervavadarv.com/?promo=fa6d4c35-b225-4fb8-90a7-80940d86693e&target=register" class="btn">регистрация</a><br><a href=" #" class="btn">Win300</a></td>
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Казино и Бонусы</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            padding: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background-color: #fff;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        th, td {
+            padding: 15px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #007BFF;
+            color: white;
+        }
+        tr:hover {
+            background-color: #f1f1f1;
+        }
+        .btn {
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            text-decoration: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .btn:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Казино и Бонусы</h1>
+<table>
+    <thead>
+        <tr>
+            <th>Название Казино</th>
+            <th>Ссылка на Казино</th>
+            <th>Описание Бонуса</th>
         </tr>
-        <тр>
-          <td><strong>Riobet</strong><br>200% бонус до $1000 + 100 бесплатных вращений</td>
-          <td><a href="https://cutt.ly/gw0Usi4g" class="btn">регистрация</a><br><a href="#" class="btn">Win300</a> </td>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Вавада</strong><br>100% бонус до $500 + 100 вращений</td>
+            <td><a href="https://partnervavadarv.com/?promo=fa6d4c35-b225-4fb8-90a7-80940d86693e&target=register" class="btn">регистрация</a><br><a href="#" class="btn">Win300</a></td>
         </tr>
-        <тр>
-          <td><strong>1xSlots</strong><br>250% бонус на депозит до $750</td>
-          <td><a href="https://unlimc.net/d3de5f285?registrationPromoCode=WIN300" class="btn">регистрация</a><br><a href="#" class="btn">Win300 </a></td>
+        <tr>
+            <td><strong>Riobet</strong><br>200% бонус до $1000 + 100 бесплатных вращений</td>
+            <td><a href="https://cutt.ly/gw0Usi4g" class="btn">регистрация</a><br><a href="#" class="btn">Win300</a></td>
         </tr>
-        <тр>
-          <td><strong>1 победа или</strong><br>бонус 500 % </td>
-          <td><a href="https://1wytvn.life/casino/list?open=register#k0ok" class="btn">регистрация</a><br><a href="#" class=" btn">Win300</a></td>
+        <tr>
+            <td><strong>1xSlots</strong><br>250% бонус на депозит до $750</td>
+            <td><a href="https://unlimc.net/d3de5f285?registrationPromoCode=WIN300" class="btn">регистрация</a><br><a href="#" class="btn">Win300</a></td>
         </tr>
-        <тр>
-          <td><strong>Казино с водкой</strong><br>100% при первом депозите до $200</td>
-          <td><a href="https://vodka2.xyz?id=3597" class="btn">регистрация</a><br><a href="#" class="btn">Win300</ а></тд>
+        <tr>
+            <td><strong>1 победа или</strong><br>бонус 500%</td>
+            <td><a href="https://1wytvn.life/casino/list?open=register#k0ok" class="btn">регистрация</a><br><a href="#" class="btn">Win300</a></td>
         </tr>
-        <тр>
-     <td><strong>В казино </strong><br>300% бонус + VIP-призы за лояльность</td>
-          <td><a href="https://auflink.com/d1d9117ba?registrationPromoCode=WIN300" class="btn">регистрация</a><br><a href="#" class="btn">Win300 </a></td>
+        <tr>
+            <td><strong>Казино с водкой</strong><br>100% при первом депозите до $200</td>
+            <td><a href="https://vodka2.xyz?id=3597" class="btn">регистрация</a><br><a href="#" class="btn">Win300</a></td>
         </tr>
-        <тр>
-          <td><strong>CryptoBoss </strong><br>100 вращений без депозита</td>
-          <td><a href="https://cryptobossc.online/d86b78981?registrationPromoCode=WIN300" class="btn">регистрация</a><br><a href="#" class="btn">Win300 </a></td>
+        <tr>
+            <td><strong>В казино</strong><br>300% бонус + VIP-призы за лояльность</td>
+            <td><a href="https://auflink.com/d1d9117ba?registrationPromoCode=WIN300" class="btn">регистрация</a><br><a href="#" class="btn">Win300</a></td>
         </tr>
-        <тр>
-          <td><strong>Мостбет </strong><br>К100 спинов без депозита</td>
-          <td><a href="kbgepymb.com/b3ws" class="btn">регистрация</a><br><a href="#" class="btn">Win300</a></td>
+        <tr>
+            <td><strong>CryptoBoss</strong><br>100 вращений без депозита</td>
+            <td><a href="https://cryptobossc.online/d86b78981?registrationPromoCode=WIN300" class="btn">регистрация</a><br><a href="#" class="btn">Win300</a></td>
         </tr>
-        <тр>
-          <td><strong>Безлимитный </strong><br>250% бонусная ставка x25</td>
-          <td><a href="https://unlimc.net/d3de5f285?registrationPromoCode=WIN300" class="btn">регистрация</a><br><a href="#" class="btn">Win300 </a></td>
+        <tr>
+            <td><strong>Мостбет</strong><br>100 спинов без депозита</td>
+            <td><a href="kbgepymb.com/b3ws" class="btn">регистрация</a><br><a href="#" class="btn">Win300</a></td>
         </tr>
-        <тр>
-          <td><strong>Казино Daddy</strong><br>Бонус 250% + 150 бесплатных вращений без депозита</td>
-          <td><a href="https://bit.ly/Daddyaff" class="btn">регистрация</a><br><a href="#" class="btn">Win300</a> </td>
+        <tr>
+            <td><strong>Безлимитный</strong><br>250% бонусная ставка x25</td>
+            <td><a href="https://unlimc.net/d3de5f285?registrationPromoCode=WIN300" class="btn">регистрация</a><br><a href="#" class="btn">Win300</a></td>
+        </tr>
+        <tr>
+            <td><strong>Казино Daddy</strong><br>Бонус 250% + 150 бесплатных вращений без депозита</td>
+            <td><a href="https://bit.ly/Daddyaff" class="btn">регистрация</a><br><a href="#" class="btn">Win300</a></td>
+        </tr>
+    </tbody>
+</table>
+
+<h2>Описание Бонусов</h2>
+<p><strong>Вавада</strong>: предлагает 100% бонус до $500 и 100 бесплатных вращений, что значительно увеличивает шансы на выигрыш.</p>
+<p><strong>Riobet</strong>: предоставляет 200% бонус до $1000 и дополнительные 100 бесплатных вращений, что дает возможность ознакомиться с игрой без риска.</p>
+<p><strong>1xSlots</strong>: предлагает щедрый 250% бонус на депозит до $750, позволяющий игрокам увеличить свой стартовый капитал.</p>
+<p><strong>1 победа</strong>: заманивает игроков бонусом 500%, что может представлять отличную возможность для новых пользователей.</p>
+<p><strong>Казино с водкой</strong>: предлагает 100% бонус при первом депозите до $200, что позволяет новичкам начать игру с удвоенной суммой.</p>
+<p><strong>В казино</strong>: предоставляет 300% бонус, а также VIP-призы для лояльных игроков, что делает его привлекательным для постоянных клиентов.</p>
+<p><strong>CryptoBoss</strong>: дарит 100 вращений без депозита, позволяя игрокам попробовать удачу без вложения средств.</p>
+<p><strong>Мостбет</strong>: предлагает 100 спинов без депозита, что дает игрокам возможность получить выигрыши без риска.</p>
+<p><strong>Безлимитный</strong>: предлагает 250% бонусную ставку с множителем x25, что значительно увеличивает шансы на выигрыш.</p>
+<p><strong>Казино Daddy</strong>: выдает 250% бонус и 150 бесплатных вращений без депозита, что делает его одной из самых щедрых казино.</p>
+
+</body>
+</html>
         </tr>
     </tbody>
 </table>
