@@ -11,56 +11,45 @@
             <th>Описание Бонуса</th>
         </tr>
     </thead>
-    <tbody>
-        <tr>
-            <td>Казино 1</td>
-            <td><a href="https://example.com/casino1" class="button">Перейти</a></td>
-            <td>Бонус: 100% на первый депозит до 5000 рублей.</td>
+    <tbody
+<td><strong>Вавада </strong><br>100% бонус до $500 + 100 вращений</td>
+          <td><a href="https://partnervavadarv.com/?promo=fa6d4c35-b225-4fb8-90a7-80940d86693e&target=register" class="btn">регистрация</a><br><a href=" #" class="btn">Win300</a></td>
         </tr>
-        <tr>
-            <td>Казино 2</td>
-            <td><a href="https://example.com/casino2" class="button">Перейти</a></td>
-            <td>Бонус: 50 бесплатных вращений при регистрации.</td>
+        <тр>
+          <td><strong>Riobet</strong><br>200% бонус до $1000 + 100 бесплатных вращений</td>
+          <td><a href="https://cutt.ly/gw0Usi4g" class="btn">регистрация</a><br><a href="#" class="btn">Win300</a> </td>
         </tr>
-        <tr>
-            <td>Казино 3</td>
-            <td><a href="https://example.com/casino3" class="button">Перейти</a></td>
-            <td>Бонус: 200% на первый депозит до 10,000 рублей.</td>
+        <тр>
+          <td><strong>1xSlots</strong><br>250% бонус на депозит до $750</td>
+          <td><a href="https://unlimc.net/d3de5f285?registrationPromoCode=WIN300" class="btn">регистрация</a><br><a href="#" class="btn">Win300 </a></td>
         </tr>
-        <tr>
-            <td>Казино 4</td>
-            <td><a href="https://example.com/casino4" class="button">Перейти</a></td>
-            <td>Бонус: 150% на первый депозит + 30 фриспинов.</td>
+        <тр>
+          <td><strong>1 победа или</strong><br>бонус 500 % </td>
+          <td><a href="https://1wytvn.life/casino/list?open=register#k0ok" class="btn">регистрация</a><br><a href="#" class=" btn">Win300</a></td>
         </tr>
-        <tr>
-            <td>Казино 5</td>
-            <td><a href="https://example.com/casino5" class="button">Перейти</a></td>
-            <td>Бонус: 25% кешбэк на все проигрыши в течение недели.</td>
+        <тр>
+          <td><strong>Казино с водкой</strong><br>100% при первом депозите до $200</td>
+          <td><a href="https://vodka2.xyz?id=3597" class="btn">регистрация</a><br><a href="#" class="btn">Win300</ а></тд>
         </tr>
-        <tr>
-            <td>Казино 6</td>
-            <td><a href="https://example.com/casino6" class="button">Перейти</a></td>
-            <td>Бонус: 3 фриспина без депозита при регистрации.</td>
+        <тр>
+     <td><strong>В казино </strong><br>300% бонус + VIP-призы за лояльность</td>
+          <td><a href="https://auflink.com/d1d9117ba?registrationPromoCode=WIN300" class="btn">регистрация</a><br><a href="#" class="btn">Win300 </a></td>
         </tr>
-        <tr>
-            <td>Казино 7</td>
-            <td><a href="https://example.com/casino7" class="button">Перейти</a></td>
-            <td>Бонус: 100% на первый депозит + 100 фриспинов.</td>
+        <тр>
+          <td><strong>CryptoBoss </strong><br>100 вращений без депозита</td>
+          <td><a href="https://cryptobossc.online/d86b78981?registrationPromoCode=WIN300" class="btn">регистрация</a><br><a href="#" class="btn">Win300 </a></td>
         </tr>
-        <tr>
-            <td>Казино 8</td>
-            <td><a href="https://example.com/casino8" class="button">Перейти</a></td>
-            <td>Бонус: 50% на второй депозит до 5000 рублей.</td>
+        <тр>
+          <td><strong>Мостбет </strong><br>К100 спинов без депозита</td>
+          <td><a href="kbgepymb.com/b3ws" class="btn">регистрация</a><br><a href="#" class="btn">Win300</a></td>
         </tr>
-        <tr>
-            <td>Казино 9</td>
-            <td><a href="https://example.com/casino9" class="button">Перейти</a></td>
-            <td>Бонус: 15% кешбэк на первую неделю после регистрации.</td>
+        <тр>
+          <td><strong>Безлимитный </strong><br>250% бонусная ставка x25</td>
+          <td><a href="https://unlimc.net/d3de5f285?registrationPromoCode=WIN300" class="btn">регистрация</a><br><a href="#" class="btn">Win300 </a></td>
         </tr>
-        <tr>
-            <td>Казино 10</td>
-            <td><a href="https://example.com/casino10" class="button">Перейти</a></td>
-            <td>Бонус: 50 бесплатных вращений на популярных слотах.</td>
+        <тр>
+          <td><strong>Казино Daddy</strong><br>Бонус 250% + 150 бесплатных вращений без депозита</td>
+          <td><a href="https://bit.ly/Daddyaff" class="btn">регистрация</a><br><a href="#" class="btn">Win300</a> </td>
         </tr>
     </tbody>
 </table>
