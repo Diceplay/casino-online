@@ -50,8 +50,8 @@
             <td>Играйте без риска: 100 фриспинов сразу при регистрации!</td>
         </tr>
         <tr>
-            <td><strong>Мостбет</strong><br>100 спинов без депозита</td>
-            <td><a href="kbgepymb.com/b3ws" class="btn">регистрация</a><br><a href="#" </a></td>
+            <td><strong>Booi казино</strong><br>100 спинов без депозита</td>
+            <td><a href="https://stars-flight.com/s4477f4bb" class="btn">регистрация</a><br><a href="#" </a></td>
             <td>Получи 100 бесплатных спинов без вложений, чтобы попробовать свои силы!</td>
         </tr>
         <tr>
