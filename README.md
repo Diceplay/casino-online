@@ -27,7 +27,7 @@
             <td>Сделайте депозит и получите 250% и до $750 к вашему счету.</td>
         </tr>
         <tr>
-            <td><strong>1 победа</strong><br>бонус 500%</td>
+            <td><strong>1win Casino </strong><br>бонус 500%</td>
             <td><a href="https://1wytvn.life/casino/list?open=register#k0ok" class="btn">регистрация</a><br><a href="#" </a></td>
             <td>Пользуйтесь 500% бонусом на первый депозит для начала своей игровой карьеры.</td>
         </tr>
